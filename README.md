@@ -47,8 +47,8 @@ We recommend [nvm](https://github.com/creationix/nvm) for managing multiple vers
 
 Clone this repo into new project folder (e.g., `my-proj`).
 ```shell
-git clone https://github.com/angular/quickstart  my-proj
-cd my-proj
+git clone https://github.com/narci2010/angular2-heros.git
+cd angular2-heros
 ```
 
 We have no intention of updating the source on `angular/quickstart`.
